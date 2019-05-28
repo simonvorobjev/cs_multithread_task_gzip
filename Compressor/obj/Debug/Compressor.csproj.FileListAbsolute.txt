@@ -1,0 +1,9 @@
+C:\Users\Se7en\source\repos\Compressor\Compressor\bin\Debug\Compressor.exe.config
+C:\Users\Se7en\source\repos\Compressor\Compressor\bin\Debug\Compressor.exe
+C:\Users\Se7en\source\repos\Compressor\Compressor\bin\Debug\Compressor.pdb
+C:\Users\Se7en\source\repos\Compressor\Compressor\obj\Debug\Compressor.csprojAssemblyReference.cache
+C:\Users\Se7en\source\repos\Compressor\Compressor\obj\Debug\Compressor.csproj.CoreCompileInputs.cache
+C:\Users\Se7en\source\repos\Compressor\Compressor\obj\Debug\Compressor.exe
+C:\Users\Se7en\source\repos\Compressor\Compressor\obj\Debug\Compressor.pdb
+C:\Users\Se7en\source\repos\Compressor\Compressor\bin\Debug\System.IO.Compression.dll
+C:\Users\Se7en\source\repos\Compressor\Compressor\obj\Debug\Compressor.csproj.CopyComplete
